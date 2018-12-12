@@ -1,4 +1,4 @@
-##export bert model for serving##
+## export bert model for serving ##
 
 create virtual environment</br>
 ```bash
