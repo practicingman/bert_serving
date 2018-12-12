@@ -1,5 +1,8 @@
 ## export bert model for serving ##
 
+>
+predicting with estimator is slow, use export_savedmodel instead
+
 create virtual environment</br>
 ```bash
 conda env create -f env.yml
