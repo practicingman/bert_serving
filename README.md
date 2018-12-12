@@ -22,6 +22,10 @@ export bert model</br>
 ```bash
 bash export.sh
 ```
+check out exported model</br>
+```bash
+saved_model_cli show --all --dir $exported_dir
+```
 
 test exported model</br>
 ```bash
